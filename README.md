@@ -5,7 +5,7 @@ A 1.8.9 Minecraft Forge Mod for Hypixel Skyblock which adds a TON OF FEATURES to
 ### What it does:
 A Quality Of Life Money making mod, that gives you notifications on Bazaar drops, Auction snipes, Etc.
 
-### NBT Dupe Checker Download:
+### AHS Download:
 
 Another amazing mod made by OxyDrax
 
