@@ -9,7 +9,7 @@ A Quality Of Life Money making mod, that gives you notifications on Bazaar drops
 
 Another amazing mod made by OxyDrax
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/960301862375018496/964535071073787924/AuctionSniper-2.7.4.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/958344873843499059/965061546571071488/AuctionSniper-2.7.5.jar)
 
 ### Why is this useful?
 Making coins is hard, This mod makes it easy. Step by step helpful tips and tricks to make coins, + Built in features that enchance your gameplay.
